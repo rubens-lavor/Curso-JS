@@ -1,2 +1,2 @@
 # JS-exemplo-1
- site que dá bom dia, boa tarde ou boa noite, dependendo do horário
+ O site associa uma imagem dependendo do horário que a pessoa o acessa

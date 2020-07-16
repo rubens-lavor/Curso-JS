@@ -1,2 +1,2 @@
 # JS-exemplo-1
- O site associa uma imagem dependendo do horário que a pessoa o acessa
+Curso de JavaScript básico do canal Curso em Vídeo no YouTube
